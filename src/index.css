@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.font-raleway {
+  font-family: "Raleway", sans-serif;
+}
+
+.font-rachno{
+  font-family: "Rancho", cursive;
+}
+
+.bg-nav-bar-img{
+  background-image: url("/Rectangle\ 1.png");
+}
+
+.bg-headers-img{
+  background-image: url("/Rectangle\ 2\ \(1\).png");
+}
+
+*{
+  box-sizing: border-box;
+}
